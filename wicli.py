@@ -24,7 +24,7 @@ def main():
     # #####################
     admin_username = "you@symantec.com"
     admin_password = "your admin pass"
-    wiMgmtURL = "https://demo-mgmt.isolation.symantec.com:9000"
+    wiMgmtURL = "https://yourURL:9000"
     # DONT CHANGE ANYTHING BELOW THIS LINE
     # #####################
 
